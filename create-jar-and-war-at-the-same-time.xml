@@ -45,4 +45,6 @@
 			</plugin>
 		</plugins>
 	</build>
+	<!-- 	source 
+	http://communitygrids.blogspot.com/2007/11/maven-making-war-and-jar-at-same-time.html -->
 </project>
